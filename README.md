@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @humeyracengizz
+- 👀 I’m interested in electronic systems and 🖥
+- 🌱 I’m currently learning C Programming Language
+- 📫 How to reach me --> aysehumeyracengiz@gmail.com
